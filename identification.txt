@@ -1,2 +1,4 @@
 Identification.py-----Rule Based System architecture
 Uses a key from source: "http://www.sfzoo.org/pdf/education/Trop%20Bldg%20docs/SF%20Zoo%20Tropical%20Rainforest%20and%20Aviary%20Bird%20Identification.pdf" as a basis for a Rule Based System architecture based application. The application identifies a bird by asking a variety of questions building on the questions to arriive at the specific bird. Uses forward chaining to build the logic. It uses the facts and data to infer new conclusions.
+
+Built with: Python 3.5.1

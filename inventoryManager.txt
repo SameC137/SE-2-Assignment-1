@@ -1,2 +1,4 @@
 InventoryManager---MVC
 The app allows the user to add to the inventroy and to edit entries on a gui. Double clicking on entries will allow the user to edit the entry.
+
+Built with: Python 3.5.1
